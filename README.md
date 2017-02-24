@@ -14,7 +14,7 @@ client.addCommand('goto', require('hof-util-autofill')(client));
 
 The command can be given any name you like, here we've called it `goto`.
 
-Then you can use the command as normal as part of your webdrive command chain.
+Then you can use the command as normal as part of your webdriver command chain.
 
 ```js
 it('completes a form to a certain step automatically', () => {

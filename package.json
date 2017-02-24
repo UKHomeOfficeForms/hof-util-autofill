@@ -1,0 +1,23 @@
+{
+  "name": "hof-util-autofill",
+  "version": "1.0.0",
+  "description": "A webdriverio plugin to automate filling a form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennym/hof-util-autofill.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lennym/hof-util-autofill/issues"
+  },
+  "homepage": "https://github.com/lennym/hof-util-autofill#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "debug": "^2.6.1"
+  }
+}

@@ -18,6 +18,7 @@
   "homepage": "https://github.com/lennym/hof-util-autofill#readme",
   "dependencies": {
     "bluebird": "^3.4.7",
-    "debug": "^2.6.1"
+    "debug": "^2.6.1",
+    "hof-util-testdata": "^1.0.0"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "hof-util-autofill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webdriverio plugin to automate filling a form",
   "main": "index.js",
   "scripts": {

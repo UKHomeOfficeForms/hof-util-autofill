@@ -1,0 +1,9 @@
+extends:
+- "homeoffice/config/default"
+
+env:
+  es6: true
+
+rules:
+  consistent-return: 0
+  max-nested-callbacks: 0

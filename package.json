@@ -4,7 +4,7 @@
   "description": "A webdriverio plugin to automate filling a form",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
     "bluebird": "^3.4.7",
     "debug": "^2.6.1",
     "hof-util-testdata": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-homeoffice": "^2.2.0"
   }
 }
